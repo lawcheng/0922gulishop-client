@@ -24,3 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 告诉用户如何启动，打包 如何使用eslint,类似项目说明书
+
+哈哈哈
